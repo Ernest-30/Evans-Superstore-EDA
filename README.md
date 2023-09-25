@@ -8,8 +8,8 @@ The notebook contains business insights on the following;
 
 2. Gender Analysis and Age segmentation
 
-3. Finding the most busy ship-state and channel 
+3. Finding the most busy ship-state and channel.
 
-4. Analyzing Delivery rate, Refund rate, Cancel rate and Return rate
+4. Analyzing Delivery rate, Refund rate, Cancel rate and Return rate.
 
-5. Analysis of the different product categories
+5. Analysis of the different product categories.
